@@ -1,4 +1,4 @@
-name: CICD for ECS
+name: CICD for ECS 
 
 on:
   push:
